@@ -1,6 +1,3 @@
----
-layout: page
----
 # Event Blog
 
 <ul>

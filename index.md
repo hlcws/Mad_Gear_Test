@@ -14,6 +14,10 @@ Mörfelden-Walldorf
 ## Equipment
 Vor Ort gibt es 8 Screens und einige Konsolen. Bringt auf jeden Fall euren einen eigenen Controller mit! Falls ihr eine Playstation 4 oder andere Konsole mitbringt, könnt ihr die an einen freien Screen stecken.
 
+## Neugikeiten
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=madgearffm&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #madgearffm</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Games
 
 Diese Spielserien werden hauptsächlich gespielt:
